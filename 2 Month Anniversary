@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Love Message</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://i.imgur.com/RVzBq2g.jpeg'); /* Replace 'your-background-image.png' with the path to your PNG image */
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, .9); /* Add transparency to make text readable */
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #e74c3c;
+    }
+    p {
+      color: #34495e;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .love-message {
+      font-style: italic;
+      color: #e74c3c;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>The Greatest Girl Ever</h1>
+  <p>Dear Haeli,</p>
+  <p class="love-message">I know that you're going through a hard time right now and I'm sorry for that. It's not fair that you're going through this, but you're not doing it alone. I think you're an amazing person and I enjoy being around you. You make me smile, and being a cute badass doesn't hurt. You motivate me to better my life and to be the guy you deserve, and I thank you for that. I wanted to make this for you to show you that you have someone in your life that will be there for in any way that you need it. I'll listen to your problems, cook with you, watch TV with you, and even let you do my nails and makeup (lol). Happy 2 month anniversary!</p>
+  <p>With all my heart,</p>
+  <p>Tony</p>
+  <p>Made with ❤️</p>
+</div>
+</body>
+</html>
